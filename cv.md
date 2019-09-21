@@ -1,4 +1,5 @@
 ## DMITRY MESHCHANCHUK
+*Junior Developer*
 
 ## Contact Info
 #### **Phone:**  +375 (33) 903-55-92 
