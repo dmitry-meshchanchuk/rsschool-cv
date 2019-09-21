@@ -1,8 +1,9 @@
 ## DMITRY MESHCHANCHUK
 
-**Phone:**  +375 (33) 903-55-92 
-**Email:** michalytch97@gmail.com
-**Telegram:** @dmitry_meshchanchuk
+## Contact Info
+#### **Phone:**  +375 (33) 903-55-92 
+#### **Email:** michalytch97@gmail.com
+#### **Telegram:** @dmitry_meshchanchuk
 
 ## Summary
 I am a student at Brest State University. I study computer physics. I am a beginner front-end developer, and the web development really likes me. I have little commercial development experience, but I have a great desire to develop.
