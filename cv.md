@@ -42,4 +42,5 @@ In the htmlacademy courses, I did a project that can be downloaded [here](https:
  - IT Shark Pro
 
 ## English
-**Elementary**
+#### **Elementary**
+I attend the course in the English language.
