@@ -7,13 +7,13 @@
 #### **Telegram:** @dmitry_meshchanchuk
 
 ## Summary
-I am a student at Brest State University. I study computer physics. I am a beginner front-end developer, and the web development really likes me. I have little commercial development experience, but I have a great desire to develop.
+I am a student at Brest State University. I study computer physics. I am a beginner developer, and the web development really likes me. I have little commercial development experience, but I have a great desire to develop.
 I am a hard-working and responsible person. One of my main strengths is the ability to learn quickly. I am purposeful and bring things to the end
 
 ## Skills
-- HTML, CSS, JS;
+- HTML, CSS, JS, C#;
 - VS Code, WebStorm, Open Server;
-- Bootstrap, JQuery, React, Git, Node.js.
+- Bootstrap, React, Git, Node.js.
 
 ## Code examples
 
